@@ -1,5 +1,8 @@
 #include <iostream>
 
+void f() {
+    std::cout << std::endl;
+}
 
 int main() {
     int i = 0;
